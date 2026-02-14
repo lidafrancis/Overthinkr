@@ -117,3 +117,33 @@ mongod
 npm run dev
 
 SUMMARIZE: To run Overthinkr locally, you must have Node.js + npm + MongoDB installed, plus the npm packages listed above. Dev tools like nodemon make development easier, and NLP packages (vader-sentiment) are required for stress scoring.
+
+
+
+
+<img width="1911" height="969" alt="Screenshot 2026-02-14 092313" src="https://github.com/user-attachments/assets/d22e01dc-8c52-4cb8-9fe1-5358db3a7a22" />
+
+<img width="1918" height="964" alt="Screenshot 2026-02-14 092330" src="https://github.com/user-attachments/assets/9e2e97f3-cf72-4825-bbd9-ff5c3bd35a13" />
+
+<img width="1895" height="958" alt="Screenshot 2026-02-14 092351" src="https://github.com/user-attachments/assets/07bccc72-0e94-4fc8-91d8-c5d1b34eb3c5" />
+
+<img width="1919" height="968" alt="Screenshot 2026-02-14 092407" src="https://github.com/user-attachments/assets/672d95e5-ff08-42b1-a3af-dc9a1bbf5390" />
+
+<img width="1919" height="971" alt="Screenshot 2026-02-14 092534" src="https://github.com/user-attachments/assets/7c8c9b2f-770e-45d8-ba58-d2bf708d522a" />
+
+TEAM MEMBERS:
+MARIA G PETER
+LIDA FRANCIS
+
+LICENSE
+MIT LICENSE
+
+VIDEO LINK
+https://youtu.be/b8qg2BaOYyA?si=bhRahKpt5145ZReB
+
+
+
+
+
+
+
