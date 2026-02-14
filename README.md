@@ -101,19 +101,19 @@ This downloads and installs MongoDB locally.
 By default, MongoDB will install as a Windows service, so it can start automatically.
 
 4️⃣ How to Install Everything
-# 1. Navigate to project folder
+1. Navigate to project folder
 cd overthinkr
 
-# 2. Install all dependencies
+2. Install all dependencies
 npm install
 
-# 3. If you use Tailwind
+3. If you use Tailwind
 npx tailwindcss init -p
 
-# 4. Start MongoDB (local)
+4. Start MongoDB (local)
 mongod
 
-# 5. Start development server
+5. Start development server
 npm run dev
 
 SUMMARIZE: To run Overthinkr locally, you must have Node.js + npm + MongoDB installed, plus the npm packages listed above. Dev tools like nodemon make development easier, and NLP packages (vader-sentiment) are required for stress scoring.
